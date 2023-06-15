@@ -1,0 +1,7 @@
+kindly install Apache Jena from :
+https://jena.apache.org/download/
+
+recommended dependencies :
+1. Jena 4.8.0
+2. Java SE 1.8
+3. Eclipse IDE (latest)
