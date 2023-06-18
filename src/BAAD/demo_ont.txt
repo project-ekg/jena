@@ -1,0 +1,65 @@
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://BAAD#EU>  rdf:type  owl:Class .
+
+<https://BAAD#Bangladesh>
+        rdf:type               owl:Class ;
+        rdfs:subClassOf        <https://BAAD#Asia> ;
+        owl:annotatedProperty  "https://BAAD#90.400" , "https://BAAD#23.717" .
+
+<https://BAAD#Swaziland>
+        rdf:type               owl:Class ;
+        rdfs:subClassOf        <https://BAAD#Africa> ;
+        owl:annotatedProperty  "https://BAAD#2424.000" .
+
+<Birsa Commando Force (BCF)>
+        rdf:type               <https://BAAD#Bangladesh> ;
+        owl:annotatedProperty  "Birsa Commando Force (BCF)India" , "Birsa Commando Force (BCF)0" , "Birsa Commando Force (BCF)10123" .
+
+<https://BAAD#Sudan>  rdf:type  owl:Class ;
+        rdfs:subClassOf        <https://BAAD#Africa> ;
+        owl:annotatedProperty  "https://BAAD#32.533" , "https://BAAD#15.600" .
+
+<United Self Defense Forces of Colombia (AUC)>
+        rdf:type               <https://BAAD#France> ;
+        owl:annotatedProperty  "United Self Defense Forces of Colombia (AUC)0" , "United Self Defense Forces of Colombia (AUC)Colombia" , "United Self Defense Forces of Colombia (AUC)244" , "United Self Defense Forces of Colombia (AUC)9980" .
+
+<Gazteriak>  rdf:type          <https://BAAD#India> ;
+        owl:annotatedProperty  "GazteriakFrance" , "Gazteriak0" , "Gazteriak188" .
+
+<People's Revolutionary Militias>
+        rdf:type               <https://BAAD#Colombia> ;
+        owl:annotatedProperty  "People's Revolutionary MilitiasEcuador" , "People's Revolutionary Militias0" , "People's Revolutionary Militias9830" .
+
+<https://BAAD#Africa>
+        rdf:type  owl:Class .
+
+<https://BAAD#India>  rdf:type  owl:Class ;
+        rdfs:subClassOf        <https://BAAD#Asia> ;
+        owl:annotatedProperty  "https://BAAD#77.200" , "https://BAAD#28.600" .
+
+<https://BAAD#Colombia>
+        rdf:type               owl:Class ;
+        rdfs:subClassOf        <https://BAAD#SA> ;
+        owl:annotatedProperty  "https://BAAD#-74.083" , "https://BAAD#4.600" .
+
+<Jagrata Muslim Janata Bangladesh>
+        rdf:type               <https://BAAD#Swaziland> ;
+        owl:annotatedProperty  "Jagrata Muslim Janata BangladeshBangladesh" , "Jagrata Muslim Janata Bangladesh0" , "Jagrata Muslim Janata Bangladesh30031" .
+
+<https://BAAD#World>  rdf:type  owl:Class .
+
+<Tigers>  rdf:type             <https://BAAD#Sudan> ;
+        owl:annotatedProperty  "Tigers0" , "TigersSwaziland" , "Tigers1" , "Tigers2424" .
+
+<https://BAAD#SA>  rdf:type  owl:Class .
+
+<https://BAAD#France>
+        rdf:type               owl:Class ;
+        rdfs:subClassOf        <https://BAAD#EU> ;
+        owl:annotatedProperty  "https://BAAD#2.333" , "https://BAAD#48.867" .
+
+<https://BAAD#Asia>  rdf:type  owl:Class .
