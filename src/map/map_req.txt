@@ -1,0 +1,31 @@
+Please ensure the following dependencies :
+1. Apache jena 
+2. NodeJs
+3. NodePackageManager
+4. OpenLayer (map rendering library)
+5. Vite (front-end server)
+
+How to run :
+
+1. Download the mentioned files in your workspace
+
+2. Ensure download of NodeJS and npm in your system
+
+3. Download and add Open Layers dependencies in your path
+
+4. Ensure to add Jena JAR files in your IDEs build path
+
+5. Adjust the 'query_file_path' ; 'ds_file_path' ; 'cord_file_path' ; present in model.java according to the location in your system
+
+6. run Server using 
+	'node server.js'
+   in you command line terminal
+
+7. run Client using 
+	'npm run start'
+   in another command line terminal
+   Copy the local host address and paste in your internet browser
+
+8. Enter Query in the text box (without line break); and press submit
+
+9. Run proj/model.java

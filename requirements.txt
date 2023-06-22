@@ -5,3 +5,7 @@ recommended dependencies :
 1. Jena 4.8.0
 2. Java SE 1.8
 3. Eclipse IDE (latest)
+4. Node 18.6.1
+5. npm 9.5.1
+6. vite 3.2.3
+7. OpenLayer 7.4.0

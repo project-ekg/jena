@@ -1,0 +1,9 @@
+{ "head": {
+    "vars": [ "country" , "x" ]
+  } ,
+  "results": {
+    "bindings": [
+      
+    ]
+  }
+}

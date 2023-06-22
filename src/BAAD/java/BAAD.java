@@ -25,7 +25,7 @@ public class BAAD
 	{
 		//Change location to the data-set on your local host
 		TDB.getContext().set(TDB.symUnionDefaultGraph, true);
-		String Directory = "C:\\Users\\sanid\\Jena.cair\\datasets\\BAAD_1_Lethality";
+		String Directory = "C:\\Users\\sanid\\eclipse-workspace\\jena\\src\\jena_practise\\demo_ont.txt";
 		String Ont_file = "location";
 		String graphURI = "location";
 		Dataset dataset = TDBFactory.createDataset(Directory);

@@ -45,24 +45,6 @@ public class BAAD_ont_Test
        .addProperty(OWL2.annotatedProperty, GroupURI + Territories);
  
     	Continent.addSubClass(Country);
-    	
-    	/*
-    	ResIterator iter = model.listSubjectsWithProperty(VCARD.FN);
-        
-        if (iter.hasNext()) 
-        {
-            System.out.println("The database contains vcards for:");
-            while (iter.hasNext()) 
-            {
-                System.out.println("  " + iter.nextResource().getProperty(VCARD.FN).getString());
-            }
-        } 
-        
-        else 
-        {
-            System.out.println("No vcards were found in the database");
-        }
-        */
         
     	model.write(System.out,"TURTLE");
         		
