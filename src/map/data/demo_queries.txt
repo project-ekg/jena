@@ -1,0 +1,55 @@
+// --------------- 		0		---------------
+
+prefix owl:  <http://www.w3.org/2002/07/owl#>
+prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+prefix xsd:  <http://www.w3.org/2001/XMLSchema#> 
+SELECT * WHERE { 
+	?country 	<https://BAAD#latitude> ?x ;
+   				<https://BAAD#longitude> ?y . }
+   	limit 100
+   	
+   	
+   	
+   	
+// --------------- 		1	(chatgpt)	---------------
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ex: <http://example.com/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+
+SELECT ?country ?latitude ?longitude
+WHERE {
+  ?country rdf:type ex:Country ;
+           ex:fatalityCount ?fatalityCount ;
+           geo:lat ?latitude ;
+           geo:long ?longitude .
+  
+  {
+    SELECT (MAX(?Fatality) AS ?maxFatalities)
+    WHERE {
+      ?country rdf:type ex:Country ;
+               ex:fatalityCount ?fatalityCount .
+    }
+  }
+  FILTER (?fatalityCount = ?maxFatalities)
+}
+
+
+
+// --------------- 		2		---------------
+
+prefix owl:  <http://www.w3.org/2002/07/owl#>
+prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix xsd:  <http://www.w3.org/2001/XMLSchema#>
+				
+SELECT ?x ?y ?z
+WHERE { 
+				
+?group   	<https://BAAD#Fatalities> 	?z  .
+				
+?country	<https://BAAD#latitude> 	?x ;
+			<https://BAAD#longitude> 	?y . }
+ORDER BY DESC (?z)
+LIMIT 5

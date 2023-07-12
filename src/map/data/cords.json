@@ -1,9 +1,33 @@
 { "head": {
-    "vars": [ "country" , "x" ]
+    "vars": [ "x" , "y" , "z" ]
   } ,
   "results": {
     "bindings": [
-      
+      { 
+        "x": { "type": "literal" , "value": "34.517" } ,
+        "y": { "type": "literal" , "value": "69.183" } ,
+        "z": { "type": "literal" , "value": "9" }
+      } ,
+      { 
+        "x": { "type": "literal" , "value": "34.517" } ,
+        "y": { "type": "literal" , "value": "69.183" } ,
+        "z": { "type": "literal" , "value": "9" }
+      } ,
+      { 
+        "x": { "type": "literal" , "value": "36.75" } ,
+        "y": { "type": "literal" , "value": "3.05" } ,
+        "z": { "type": "literal" , "value": "9" }
+      } ,
+      { 
+        "x": { "type": "literal" , "value": "36.75" } ,
+        "y": { "type": "literal" , "value": "3.05" } ,
+        "z": { "type": "literal" , "value": "9" }
+      } ,
+      { 
+        "x": { "type": "literal" , "value": "-8.833" } ,
+        "y": { "type": "literal" , "value": "13.217" } ,
+        "z": { "type": "literal" , "value": "9" }
+      }
     ]
   }
 }

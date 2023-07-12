@@ -1,0 +1,6 @@
+ID,GROUP,COUNT.,CONT.,LAT,LONG,COWMC,FAT.,TERR.
+11,A,X,Africa,LatX,LongX,X,0,0
+22,B,Y,Africa,LatY,LongY,Y,1,0
+33,C,Z,Asia,LatZ,LongZ,Z,0,1
+44,D,V,Asia,LatV,LongV,V,1,1
+55,E,U,EU,LatU,LongU,U,0,0

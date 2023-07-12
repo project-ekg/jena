@@ -1,0 +1,72 @@
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://BAAD#EU>  rdf:type  owl:Class ;
+        rdfs:subClassOf  <https://BAAD#World> .
+
+<https://BAAD#X>  rdfs:subClassOf  <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "LatX" ;
+        <https://BAAD#longitude>  "LongX" .
+
+<C>     rdf:type                    <https://BAAD#Z> ;
+        <https://BAAD#COWMasterCountryName>
+                "Z" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "33" ;
+        <https://BAAD#Territories>  "1" .
+
+<https://BAAD#V>  rdfs:subClassOf  <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "LatV" ;
+        <https://BAAD#longitude>  "LongV" .
+
+<A>     rdf:type                    <https://BAAD#X> ;
+        <https://BAAD#COWMasterCountryName>
+                "X" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "11" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Y>  rdfs:subClassOf  <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "LatY" ;
+        <https://BAAD#longitude>  "LongY" .
+
+<D>     rdf:type                    <https://BAAD#V> ;
+        <https://BAAD#COWMasterCountryName>
+                "V" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "44" ;
+        <https://BAAD#Territories>  "1" .
+
+<https://BAAD#Africa>
+        rdf:type         owl:Class ;
+        rdfs:subClassOf  <https://BAAD#World> .
+
+<B>     rdf:type                    <https://BAAD#Y> ;
+        <https://BAAD#COWMasterCountryName>
+                "Y" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "22" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#World>  rdf:type  owl:Class .
+
+<https://BAAD#U>  rdfs:subClassOf  <https://BAAD#EU> ;
+        <https://BAAD#latitude>   "LatU" ;
+        <https://BAAD#longitude>  "LongU" .
+
+<https://BAAD#Z>  rdfs:subClassOf  <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "LatZ" ;
+        <https://BAAD#longitude>  "LongZ" .
+
+<E>     rdf:type                    <https://BAAD#U> ;
+        <https://BAAD#COWMasterCountryName>
+                "U" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "55" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Asia>  rdf:type  owl:Class ;
+        rdfs:subClassOf  <https://BAAD#World> .
+

@@ -5,13 +5,14 @@ var bodyParser = require('body-parser')
  
 var app = express()
  
-app.listen(3000, () => {
- console.log("Server running on port 3000");
+app.listen(5050, () => {
+ console.log("Server running on port 5050");
 });
 
 app.post("/add_query", bodyParser.text(), (req, res) => {
     var query = req.body
-    fs.writeFileSync('./data/queries.txt', query + '\n')
+    console.log(query)
+    fs.writeFileSync('./data/query.txt', query + '\n')
     res.send(`query received: ${query}`)
 });
 

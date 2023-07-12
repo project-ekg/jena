@@ -8,18 +8,21 @@ useGeographic();
 
 //Read Coordinates into array
 var coordinates = []
-var resp = await fetch('./data/coordinates.json')
+var resp = await fetch('./data/cords.json')
 var json = await resp.json()
-for (var ele of json) {
-  coordinates.push([ele.lon, ele.lat])
+// console.log(json.results.bindings)
+for (var ele of json.results.bindings) {
+  coordinates.push([ele.y.value, ele.x.value])
 }
+
+console.log(coordinates)
 
 //Query
 var submitQuery = document.getElementById("submit")
 submitQuery.addEventListener("click", async () => {
     var _query = document.getElementById("query").value
     console.log(_query)
-    var resp = await fetch('http://localhost:3000/add_query/', {
+    var resp = await fetch('http://localhost:5050/add_query/', {
         method: "POST",
         mode: "no-cors",
         body: _query,
