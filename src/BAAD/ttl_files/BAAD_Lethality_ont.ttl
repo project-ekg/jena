@@ -1,0 +1,2401 @@
+<Popular Justice>  rdf:type         <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9814" ;
+        <https://BAAD#Territories>  "0" .
+
+<Karbala Brigades>  rdf:type        <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20036" ;
+        <https://BAAD#Territories>  "0" .
+
+<Anarchist Attack Teams>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20010" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#South Africa>
+        rdfs:subClassOf           <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "-25.700" ;
+        <https://BAAD#longitude>  "28.217" .
+
+<Latin American Patriotic Army (EPLA)>
+        rdf:type                    <https://BAAD#Venezuela> ;
+        <https://BAAD#COWMasterCountryName>
+                "Venezuela" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "267" ;
+        <https://BAAD#Territories>  "0" .
+
+<Anarkhiki Omadha 20 Louli>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20012" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Denmark>
+        rdfs:subClassOf           <https://BAAD#EU> ;
+        <https://BAAD#latitude>   "55.667" ;
+        <https://BAAD#longitude>  "12.583" .
+
+<Popular Revolutionary Action>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9842" ;
+        <https://BAAD#Territories>  "0" .
+
+<People's Liberation Army of Kurdistan (ARGK)>
+        rdf:type                    <https://BAAD#Turkey> ;
+        <https://BAAD#COWMasterCountryName>
+                "Turkey" ;
+        <https://BAAD#Fatalities>   "47" ;
+        <https://BAAD#GroupID>      "9825" ;
+        <https://BAAD#Territories>  "0" .
+
+<Indige0us People's Federal Army (IPFA)>
+        rdf:type                    <https://BAAD#Philippines> ;
+        <https://BAAD#COWMasterCountryName>
+                "Philippines" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "215" ;
+        <https://BAAD#Territories>  "0" .
+
+<South Maluku Republic (RMS)>
+        rdf:type                    <https://BAAD#Indonesia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Indonesia" ;
+        <https://BAAD#Fatalities>   "4" ;
+        <https://BAAD#GroupID>      "9927" ;
+        <https://BAAD#Territories>  "0" .
+
+<Alex Boncayao Brigade (ABB)>
+        rdf:type                    <https://BAAD#Philippines> ;
+        <https://BAAD#COWMasterCountryName>
+                "Philippines" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "36" ;
+        <https://BAAD#Territories>  "0" .
+
+<Clandestini Corsi>  rdf:type       <https://BAAD#France> ;
+        <https://BAAD#COWMasterCountryName>
+                "France" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "125" ;
+        <https://BAAD#Territories>  "0" .
+
+<Mujahideen Message>  rdf:type      <https://BAAD#Afghanistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Afghanistan" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "311" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Venezuela>
+        rdfs:subClassOf           <https://BAAD#SA> ;
+        <https://BAAD#latitude>   "10.483" ;
+        <https://BAAD#longitude>  "-66.867" .
+
+<The National Anti-Corruption Front>
+        rdf:type                    <https://BAAD#Bolivia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Bolivia" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9949" ;
+        <https://BAAD#Territories>  "0" .
+
+<Bolivarian Liberation Forces (FBL)>
+        rdf:type                    <https://BAAD#Venezuela> ;
+        <https://BAAD#COWMasterCountryName>
+                "Venezuela" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20019" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#NA>  rdf:type  owl:Class ;
+        rdfs:subClassOf  <https://BAAD#World> .
+
+<Black and Red Brigades>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20018" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Thailand>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "13.750" ;
+        <https://BAAD#longitude>  "100.517" .
+
+<Black Star>  rdf:type              <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "108" ;
+        <https://BAAD#Territories>  "0" .
+
+<National Warriors>  rdf:type       <https://BAAD#South Africa> ;
+        <https://BAAD#COWMasterCountryName>
+                "South Africa" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "321" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Sudan>  rdfs:subClassOf  <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "15.600" ;
+        <https://BAAD#longitude>  "32.533" .
+
+<Mujahideen al-Mansooran>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "310" ;
+        <https://BAAD#Territories>  "0" .
+
+<Andres Castro United Front (FUAC)>
+        rdf:type                    <https://BAAD#Nicaragua> ;
+        <https://BAAD#COWMasterCountryName>
+                "Nicaragua" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "48" ;
+        <https://BAAD#Territories>  "0" .
+
+<Harakat al-Shuhada'a al-Islamiyah>
+        rdf:type                    <https://BAAD#Libya> ;
+        <https://BAAD#COWMasterCountryName>
+                "Libya" ;
+        <https://BAAD#Fatalities>   "4" ;
+        <https://BAAD#GroupID>      "202" ;
+        <https://BAAD#Territories>  "0" .
+
+<al-Aarifeen>  rdf:type             <https://BAAD#Pakistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Pakistan" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "11" ;
+        <https://BAAD#Territories>  "0" .
+
+<al-Quds Brigades>  rdf:type        <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "31" ;
+        <https://BAAD#Territories>  "0" .
+
+<Kurdistan Workers' Party (PKK)>
+        rdf:type                    <https://BAAD#Turkey> ;
+        <https://BAAD#COWMasterCountryName>
+                "Turkey" ;
+        <https://BAAD#Fatalities>   "31" ;
+        <https://BAAD#GroupID>      "262" ;
+        <https://BAAD#Territories>  "0" .
+
+<Armata Corsa>  rdf:type            <https://BAAD#France> ;
+        <https://BAAD#COWMasterCountryName>
+                "France" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "77" ;
+        <https://BAAD#Territories>  "0" .
+
+<Communist Workers Movement>
+        rdf:type                    <https://BAAD#Turkey> ;
+        <https://BAAD#COWMasterCountryName>
+                "Turkey" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "136" ;
+        <https://BAAD#Territories>  "0" .
+
+<Continuity Irish Republican Army (CIRA)>
+        rdf:type                    <https://BAAD#United Kingdom> ;
+        <https://BAAD#COWMasterCountryName>
+                "United Kingdom" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "139" ;
+        <https://BAAD#Territories>  "0" .
+
+<Ummah Liberation Army (ULA)>
+        rdf:type                    <https://BAAD#Sudan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Sudan" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9971" ;
+        <https://BAAD#Territories>  "0" .
+
+<Revolutionary Perspective>
+        rdf:type                    <https://BAAD#Spain> ;
+        <https://BAAD#COWMasterCountryName>
+                "Spain" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9889" ;
+        <https://BAAD#Territories>  "0" .
+
+<Cooperative of Hand-Made Fire & Related Items>
+        rdf:type                    <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "141" ;
+        <https://BAAD#Territories>  "0" .
+
+<Free Aceh Movement (GAM)>
+        rdf:type                    <https://BAAD#Indonesia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Indonesia" ;
+        <https://BAAD#Fatalities>   "58" ;
+        <https://BAAD#GroupID>      "177" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Ecuador>
+        rdfs:subClassOf           <https://BAAD#SA> ;
+        <https://BAAD#latitude>   "-0.217" ;
+        <https://BAAD#longitude>  "-78.500" .
+
+<https://BAAD#Tajikistan>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "38.550" ;
+        <https://BAAD#longitude>  "68.767" .
+
+<Communist Party of Nepal-Maoists (CPN-M)>
+        rdf:type                    <https://BAAD#Nepal> ;
+        <https://BAAD#COWMasterCountryName>
+                "Nepal" ;
+        <https://BAAD#Fatalities>   "101" ;
+        <https://BAAD#GroupID>      "134" ;
+        <https://BAAD#Territories>  "1" .
+
+<Loyalist Volunteer Force (LVF)>
+        rdf:type                    <https://BAAD#United Kingdom> ;
+        <https://BAAD#COWMasterCountryName>
+                "United Kingdom" ;
+        <https://BAAD#Fatalities>   "4" ;
+        <https://BAAD#GroupID>      "279" ;
+        <https://BAAD#Territories>  "0" .
+
+<United Self-Defense Forces of Colombia (AUC)>
+        rdf:type                    <https://BAAD#Colombia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Colombia" ;
+        <https://BAAD#Fatalities>   "244" ;
+        <https://BAAD#GroupID>      "9980" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#China>  rdfs:subClassOf  <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "39.917" ;
+        <https://BAAD#longitude>  "116.383" .
+
+<Jaish-e-Mohammad (JeM)>
+        rdf:type                    <https://BAAD#Pakistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Pakistan" ;
+        <https://BAAD#Fatalities>   "49" ;
+        <https://BAAD#GroupID>      "235" ;
+        <https://BAAD#Territories>  "0" .
+
+<Ansar al-Sunnah Army>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "168" ;
+        <https://BAAD#GroupID>      "53" ;
+        <https://BAAD#Territories>  "0" .
+
+<The Committee for Promotion of Intransigence>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20044" ;
+        <https://BAAD#Territories>  "0" .
+
+<Ecuadorian Rebel Force>
+        rdf:type                    <https://BAAD#Ecuador> ;
+        <https://BAAD#COWMasterCountryName>
+                "Ecuador" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "156" ;
+        <https://BAAD#Territories>  "0" .
+
+<Informal Anarchist Federation>
+        rdf:type                    <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "216" ;
+        <https://BAAD#Territories>  "0" .
+
+<Borok National Council of Tripura (BNCT)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "2" ;
+        <https://BAAD#GroupID>      "110" ;
+        <https://BAAD#Territories>  "0" .
+
+<Anti-State Action>  rdf:type       <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "62" ;
+        <https://BAAD#Territories>  "0" .
+
+<Revolutionary Army>  rdf:type      <https://BAAD#Japan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Japan" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9872" ;
+        <https://BAAD#Territories>  "0" .
+
+<East Turkistan Liberation Organization>
+        rdf:type                    <https://BAAD#China> ;
+        <https://BAAD#COWMasterCountryName>
+                "China" ;
+        <https://BAAD#Fatalities>   "2" ;
+        <https://BAAD#GroupID>      "154" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Cyprus>
+        rdfs:subClassOf           <https://BAAD#EU> ;
+        <https://BAAD#latitude>   "35.167" ;
+        <https://BAAD#longitude>  "33.367" .
+
+<al-Qaeda>  rdf:type                <https://BAAD#Pakistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Pakistan" ;
+        <https://BAAD#Fatalities>   "3505" ;
+        <https://BAAD#GroupID>      "28" ;
+        <https://BAAD#Territories>  "1" .
+
+<Cambodian Freedom Fighters (CFF)>
+        rdf:type                    <https://BAAD#United States of America> ;
+        <https://BAAD#COWMasterCountryName>
+                "United States of America" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "113" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Leba0n>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "33.867" ;
+        <https://BAAD#longitude>  "35.500" .
+
+<Fronte di Liberazione Naziunale di a Corsica (FLNC)>
+        rdf:type                    <https://BAAD#France> ;
+        <https://BAAD#COWMasterCountryName>
+                "France" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "187" ;
+        <https://BAAD#Territories>  "0" .
+
+<Vigorous Burmese Student Warriors>
+        rdf:type                    <https://BAAD#Myanmar (Burma)> ;
+        <https://BAAD#COWMasterCountryName>
+                "Myanmar (Burma)" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9986" ;
+        <https://BAAD#Territories>  "0" .
+
+<06/21/2008>  rdf:type              <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "540" ;
+        <https://BAAD#Territories>  "0" .
+
+<Achik National Volunteer Council (ANVC)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "10004" ;
+        <https://BAAD#Territories>  "1" .
+
+<TKEP/L>  rdf:type                  <https://BAAD#Turkey> ;
+        <https://BAAD#COWMasterCountryName>
+                "Turkey" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "9953" ;
+        <https://BAAD#Territories>  "0" .
+
+<Movement Against State Arbitrariness>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "303" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Jordan>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "31.950" ;
+        <https://BAAD#longitude>  "35.933" .
+
+<https://BAAD#Libya>  rdfs:subClassOf  <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "32.883" ;
+        <https://BAAD#longitude>  "13.167" .
+
+<Guevarista Revolutionary Army (ERG)>
+        rdf:type                    <https://BAAD#Colombia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Colombia" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "199" ;
+        <https://BAAD#Territories>  "1" .
+
+<Anti-State Defense>  rdf:type      <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20014" ;
+        <https://BAAD#Territories>  "0" .
+
+<Mahdi Army>  rdf:type              <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "282" ;
+        <https://BAAD#Territories>  "1" .
+
+<Tawhid Islamic Brigades>
+        rdf:type                    <https://BAAD#Egypt> ;
+        <https://BAAD#COWMasterCountryName>
+                "Egypt" ;
+        <https://BAAD#Fatalities>   "34" ;
+        <https://BAAD#GroupID>      "30039" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Asia>  rdf:type  owl:Class ;
+        rdfs:subClassOf  <https://BAAD#World> .
+
+<People's War Group (PWG)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "112" ;
+        <https://BAAD#GroupID>      "9832" ;
+        <https://BAAD#Territories>  "1" .
+
+<Jund al-Sham>  rdf:type            <https://BAAD#Afghanistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Afghanistan" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "30003" ;
+        <https://BAAD#Territories>  "0" .
+
+<Angry Brigade>  rdf:type           <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "49" ;
+        <https://BAAD#Territories>  "0" .
+
+<Gazteriak>  rdf:type               <https://BAAD#France> ;
+        <https://BAAD#COWMasterCountryName>
+                "France" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "188" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Swaziland>
+        rdfs:subClassOf           <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "-26.317" ;
+        <https://BAAD#longitude>  "31.133" .
+
+<Five C's>  rdf:type                <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "173" ;
+        <https://BAAD#Territories>  "0" .
+
+<Hizbul Mujahideen (HM)>
+        rdf:type                    <https://BAAD#Pakistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Pakistan" ;
+        <https://BAAD#Fatalities>   "4" ;
+        <https://BAAD#GroupID>      "212" ;
+        <https://BAAD#Territories>  "1" .
+
+<Apo's Youth Revenge Brigades>
+        rdf:type                    <https://BAAD#Turkey> ;
+        <https://BAAD#COWMasterCountryName>
+                "Turkey" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "68" ;
+        <https://BAAD#Territories>  "0" .
+
+<Corsican Revolutionary Armed Forces (FARC)>
+        rdf:type                    <https://BAAD#France> ;
+        <https://BAAD#COWMasterCountryName>
+                "France" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "30028" ;
+        <https://BAAD#Territories>  "0" .
+
+<United Self-Defense Forces of Venezuela (AUV)>
+        rdf:type                    <https://BAAD#Venezuela> ;
+        <https://BAAD#COWMasterCountryName>
+                "Venezuela" ;
+        <https://BAAD#Fatalities>   "7" ;
+        <https://BAAD#GroupID>      "9981" ;
+        <https://BAAD#Territories>  "0" .
+
+<Kenkoku Giyugun Chosen Seibatsutai>
+        rdf:type                    <https://BAAD#Myanmar (Burma)> ;
+        <https://BAAD#COWMasterCountryName>
+                "Myanmar (Burma)" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "252" ;
+        <https://BAAD#Territories>  "0" .
+
+<Popular Liberation Army>
+        rdf:type                    <https://BAAD#Colombia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Colombia" ;
+        <https://BAAD#Fatalities>   "9" ;
+        <https://BAAD#GroupID>      "9838" ;
+        <https://BAAD#Territories>  "0" .
+
+<Nationalist Kurdish Revenge Teams>
+        rdf:type                    <https://BAAD#Turkey> ;
+        <https://BAAD#COWMasterCountryName>
+                "Turkey" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "323" ;
+        <https://BAAD#Territories>  "0" .
+
+<Hizb-I-Islami>  rdf:type           <https://BAAD#Afghanistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Afghanistan" ;
+        <https://BAAD#Fatalities>   "10" ;
+        <https://BAAD#GroupID>      "211" ;
+        <https://BAAD#Territories>  "1" .
+
+<Iduwini Youths>  rdf:type          <https://BAAD#Nigeria> ;
+        <https://BAAD#COWMasterCountryName>
+                "Nigeria" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20031" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Africa>
+        rdf:type         owl:Class ;
+        rdfs:subClassOf  <https://BAAD#World> .
+
+<Martyr Abu-Ali Mustafa Brigades>
+        rdf:type                    <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "286" ;
+        <https://BAAD#Territories>  "0" .
+
+<Chaotic Attack Front>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "118" ;
+        <https://BAAD#Territories>  "0" .
+
+<Maras Salvatruchas>  rdf:type      <https://BAAD#United States of America> ;
+        <https://BAAD#COWMasterCountryName>
+                "United States of America" ;
+        <https://BAAD#Fatalities>   "28" ;
+        <https://BAAD#GroupID>      "30035" ;
+        <https://BAAD#Territories>  "0" .
+
+<Territorial Anti-Imperialist Nuclei>
+        rdf:type                    <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9945" ;
+        <https://BAAD#Territories>  "0" .
+
+<Black Panthers (West Bank/Gaza)>
+        rdf:type                    <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "30027" ;
+        <https://BAAD#Territories>  "0" .
+
+<Tanzim>  rdf:type                  <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9941" ;
+        <https://BAAD#Territories>  "1" .
+
+<https://BAAD#Iran>  rdfs:subClassOf  <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "33.333" , "35.700" ;
+        <https://BAAD#longitude>  "44.400" , "51.417" .
+
+<Bersatu>  rdf:type                 <https://BAAD#Thailand> ;
+        <https://BAAD#COWMasterCountryName>
+                "Thailand" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "102" ;
+        <https://BAAD#Territories>  "0" .
+
+<Russian National Bolshevist Party>
+        rdf:type                    <https://BAAD#Russia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Russia" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20043" ;
+        <https://BAAD#Territories>  "0" .
+
+<Communists Liberation Faction>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "137" ;
+        <https://BAAD#Territories>  "0" .
+
+<Saif-ul-Muslimeen>  rdf:type       <https://BAAD#Afghanistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Afghanistan" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9903" ;
+        <https://BAAD#Territories>  "0" .
+
+<God's Army>  rdf:type              <https://BAAD#Myanmar (Burma)> ;
+        <https://BAAD#COWMasterCountryName>
+                "Myanmar (Burma)" ;
+        <https://BAAD#Fatalities>   "10" ;
+        <https://BAAD#GroupID>      "20028" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Uganda>
+        rdfs:subClassOf           <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "0.317" ;
+        <https://BAAD#longitude>  "32.550" .
+
+<Armed Forces Revolutionary Council (AFRC)>
+        rdf:type                    <https://BAAD#Sierra Leone> ;
+        <https://BAAD#COWMasterCountryName>
+                "Sierra Leone" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "81" ;
+        <https://BAAD#Territories>  "1" .
+
+<Anarchist Liberation Brigade>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "43" ;
+        <https://BAAD#Territories>  "0" .
+
+<United Liberation Front of Assam (ULFA)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "59" ;
+        <https://BAAD#GroupID>      "9975" ;
+        <https://BAAD#Territories>  "0" .
+
+<Popular Front for the Liberation of Palestine (PFLP)>
+        rdf:type                    <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "29" ;
+        <https://BAAD#GroupID>      "9836" ;
+        <https://BAAD#Territories>  "0" .
+
+<Anti-Authority Erotic Cells>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "56" ;
+        <https://BAAD#Territories>  "0" .
+
+<Takfir wa Hijra>  rdf:type         <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "12" ;
+        <https://BAAD#GroupID>      "9939" ;
+        <https://BAAD#Territories>  "0" .
+
+<Fires of Hell>  rdf:type           <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "171" ;
+        <https://BAAD#Territories>  "0" .
+
+<al-Badr>  rdf:type                 <https://BAAD#Pakistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Pakistan" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "13" ;
+        <https://BAAD#Territories>  "0" .
+
+<Mujahedin-e-Khalq (MeK)>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "9" ;
+        <https://BAAD#GroupID>      "309" ;
+        <https://BAAD#Territories>  "0" .
+
+<Islami Chhatra Shibir (ICS)>
+        rdf:type                    <https://BAAD#Bangladesh> ;
+        <https://BAAD#COWMasterCountryName>
+                "Bangladesh" ;
+        <https://BAAD#Fatalities>   "21" ;
+        <https://BAAD#GroupID>      "10192" ;
+        <https://BAAD#Territories>  "0" .
+
+<Anarchist Street Patrol>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "44" ;
+        <https://BAAD#Territories>  "0" .
+
+<Black Widows>  rdf:type            <https://BAAD#Russia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Russia" ;
+        <https://BAAD#Fatalities>   "52" ;
+        <https://BAAD#GroupID>      "109" ;
+        <https://BAAD#Territories>  "0" .
+
+<Jund Allah Organization for the Sunni Mujahideen in Iran>
+        rdf:type                    <https://BAAD#Iran> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iran" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "30032" ;
+        <https://BAAD#Territories>  "0" .
+
+<Adivasi Cobra Force (ACF)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "20003" ;
+        <https://BAAD#Territories>  "0" .
+
+<Group of Guerilla Combatants of Jose Maria Morelos y Pavon (CGNJMMP)>
+        rdf:type                    <https://BAAD#Mexico> ;
+        <https://BAAD#COWMasterCountryName>
+                "Mexico" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "10042" ;
+        <https://BAAD#Territories>  "0" .
+
+<Islamic Defense Force>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20035" ;
+        <https://BAAD#Territories>  "0" .
+
+<Torrid Winter>  rdf:type           <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9956" ;
+        <https://BAAD#Territories>  "0" .
+
+<Lord's Resistance Army (LRA)>
+        rdf:type                    <https://BAAD#Uganda> ;
+        <https://BAAD#COWMasterCountryName>
+                "Uganda" ;
+        <https://BAAD#Fatalities>   "458" ;
+        <https://BAAD#GroupID>      "278" ;
+        <https://BAAD#Territories>  "1" .
+
+<https://BAAD#Peru>  rdfs:subClassOf  <https://BAAD#SA> ;
+        <https://BAAD#latitude>   "-12.050" ;
+        <https://BAAD#longitude>  "-77.050" .
+
+<Red Hand Defenders (RHD)>
+        rdf:type                    <https://BAAD#United Kingdom> ;
+        <https://BAAD#COWMasterCountryName>
+                "United Kingdom" ;
+        <https://BAAD#Fatalities>   "6" ;
+        <https://BAAD#GroupID>      "9860" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Italy>  rdfs:subClassOf  <https://BAAD#EU> ;
+        <https://BAAD#latitude>   "41.900" ;
+        <https://BAAD#longitude>  "12.483" .
+
+<Moro National Liberation Front (MNLF)>
+        rdf:type                    <https://BAAD#Philippines> ;
+        <https://BAAD#COWMasterCountryName>
+                "Philippines" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "301" ;
+        <https://BAAD#Territories>  "1" .
+
+<Accolta Nazinuale Corsa>
+        rdf:type                    <https://BAAD#France> ;
+        <https://BAAD#COWMasterCountryName>
+                "France" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "5" ;
+        <https://BAAD#Territories>  "0" .
+
+<Solidarity Gas Canisters>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9922" ;
+        <https://BAAD#Territories>  "0" .
+
+<Muslim United Army>  rdf:type      <https://BAAD#Pakistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Pakistan" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "10224" ;
+        <https://BAAD#Territories>  "0" .
+
+<Abu al-Rish Brigades>
+        rdf:type                    <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "30025" ;
+        <https://BAAD#Territories>  "0" .
+
+<Auto0mous Decorators>
+        rdf:type                    <https://BAAD#Germany> ;
+        <https://BAAD#COWMasterCountryName>
+                "Germany" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "97" ;
+        <https://BAAD#Territories>  "0" .
+
+<November's Children>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "334" ;
+        <https://BAAD#Territories>  "0" .
+
+<Animal Liberation Front (ALF)>
+        rdf:type                    <https://BAAD#United States of America> ;
+        <https://BAAD#COWMasterCountryName>
+                "United States of America" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "50" ;
+        <https://BAAD#Territories>  "0" .
+
+<Earth Liberation Front (ELF)>
+        rdf:type                    <https://BAAD#United States of America> ;
+        <https://BAAD#COWMasterCountryName>
+                "United States of America" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "153" ;
+        <https://BAAD#Territories>  "0" .
+
+<Lashkar-e-Jhangvi (LeJ)>
+        rdf:type                    <https://BAAD#Pakistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Pakistan" ;
+        <https://BAAD#Fatalities>   "100" ;
+        <https://BAAD#GroupID>      "264" ;
+        <https://BAAD#Territories>  "0" .
+
+<Islamic Glory Brigades in the Land of the Nile>
+        rdf:type                    <https://BAAD#Egypt> ;
+        <https://BAAD#COWMasterCountryName>
+                "Egypt" ;
+        <https://BAAD#Fatalities>   "4" ;
+        <https://BAAD#GroupID>      "30030" ;
+        <https://BAAD#Territories>  "0" .
+
+<Movsar Baryayev Gang>
+        rdf:type                    <https://BAAD#Russia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Russia" ;
+        <https://BAAD#Fatalities>   "162" ;
+        <https://BAAD#GroupID>      "307" ;
+        <https://BAAD#Territories>  "0" .
+
+<Abu Bakr al-Siddiq Fundamentalist Brigades>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "1" ;
+        <https://BAAD#Territories>  "0" .
+
+<al-Mansoorain>  rdf:type           <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "16" ;
+        <https://BAAD#GroupID>      "25" ;
+        <https://BAAD#Territories>  "0" .
+
+<Save Kashmir Movement>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "10" ;
+        <https://BAAD#GroupID>      "9909" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Mexico>
+        rdfs:subClassOf           <https://BAAD#NA> ;
+        <https://BAAD#latitude>   "19.433" ;
+        <https://BAAD#longitude>  "-99.133" .
+
+<Revolutionary Liberation Action>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9882" ;
+        <https://BAAD#Territories>  "0" .
+
+<Popular Resistance Committees>
+        rdf:type                    <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9841" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Germany>
+        rdfs:subClassOf           <https://BAAD#EU> ;
+        <https://BAAD#latitude>   "52.517" ;
+        <https://BAAD#longitude>  "13.400" .
+
+<https://BAAD#Laos>  rdfs:subClassOf  <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "17.967" ;
+        <https://BAAD#longitude>  "102.600" .
+
+<Communist Party of India-Maoist (CPI-M)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "117" ;
+        <https://BAAD#GroupID>      "10022" ;
+        <https://BAAD#Territories>  "1" .
+
+<Catholic Reaction Force (CRF)>
+        rdf:type                    <https://BAAD#United Kingdom> ;
+        <https://BAAD#COWMasterCountryName>
+                "United Kingdom" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "115" ;
+        <https://BAAD#Territories>  "0" .
+
+<Revolutionary Armed Forces of Colombia (FARC)>
+        rdf:type                    <https://BAAD#Colombia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Colombia" ;
+        <https://BAAD#Fatalities>   "463" ;
+        <https://BAAD#GroupID>      "9870" ;
+        <https://BAAD#Territories>  "1" .
+
+<Vitalunismo>  rdf:type             <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9987" ;
+        <https://BAAD#Territories>  "0" .
+
+<Caucasian Front for the Liberation of Abu Achikob>
+        rdf:type                    <https://BAAD#Germany> ;
+        <https://BAAD#COWMasterCountryName>
+                "Germany" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20022" ;
+        <https://BAAD#Territories>  "0" .
+
+<Action Committee of Winegrowers>
+        rdf:type                    <https://BAAD#France> ;
+        <https://BAAD#COWMasterCountryName>
+                "France" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "6" ;
+        <https://BAAD#Territories>  "0" .
+
+<Brigades of Martyr Ahmed Yassin>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "4" ;
+        <https://BAAD#GroupID>      "20021" ;
+        <https://BAAD#Territories>  "0" .
+
+<Ali Bin Abu Talib Jihad Organization>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "30026" ;
+        <https://BAAD#Territories>  "0" .
+
+<Tawhid and Jihad>  rdf:type        <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "191" ;
+        <https://BAAD#GroupID>      "9943" ;
+        <https://BAAD#Territories>  "0" .
+
+<Group of Popular Combatants (GPC)>
+        rdf:type                    <https://BAAD#Ecuador> ;
+        <https://BAAD#COWMasterCountryName>
+                "Ecuador" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "194" ;
+        <https://BAAD#Territories>  "1" .
+
+<Turkish People's Liberation Front (TPLF)>
+        rdf:type                    <https://BAAD#Turkey> ;
+        <https://BAAD#COWMasterCountryName>
+                "Turkey" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9966" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Ethiopia>
+        rdfs:subClassOf           <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "9.033" ;
+        <https://BAAD#longitude>  "38.700" .
+
+<al-Fatah>  rdf:type                <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "266" ;
+        <https://BAAD#GroupID>      "17" ;
+        <https://BAAD#Territories>  "1" .
+
+<People's Revolutionary Army (Colombia)>
+        rdf:type                    <https://BAAD#Colombia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Colombia" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "9829" ;
+        <https://BAAD#Territories>  "0" .
+
+<Zomi Revolutionary Army (ZRA)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "7" ;
+        <https://BAAD#GroupID>      "10000" ;
+        <https://BAAD#Territories>  "0" .
+
+<Revolutionary Front for Communism>
+        rdf:type                    <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9879" ;
+        <https://BAAD#Territories>  "0" .
+
+<Leftist Nucleus>  rdf:type         <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "274" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Nigeria>
+        rdfs:subClassOf           <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "9.083" ;
+        <https://BAAD#longitude>  "7.533" .
+
+<Laskar Jihad>  rdf:type            <https://BAAD#Indonesia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Indonesia" ;
+        <https://BAAD#Fatalities>   "14" ;
+        <https://BAAD#GroupID>      "10213" ;
+        <https://BAAD#Territories>  "1" .
+
+<Purbo Banglar Communist Party (PBCP)>
+        rdf:type                    <https://BAAD#Bangladesh> ;
+        <https://BAAD#COWMasterCountryName>
+                "Bangladesh" ;
+        <https://BAAD#Fatalities>   "14" ;
+        <https://BAAD#GroupID>      "9815" ;
+        <https://BAAD#Territories>  "1" .
+
+<https://BAAD#Turkey>
+        rdfs:subClassOf           <https://BAAD#EU> ;
+        <https://BAAD#latitude>   "39.933" ;
+        <https://BAAD#longitude>  "32.867" .
+
+<https://BAAD#SA>  rdf:type  owl:Class ;
+        rdfs:subClassOf  <https://BAAD#World> .
+
+<Islamic Shashantantra Andolon (ISA)>
+        rdf:type                    <https://BAAD#Bangladesh> ;
+        <https://BAAD#COWMasterCountryName>
+                "Bangladesh" ;
+        <https://BAAD#Fatalities>   "3" ;
+        <https://BAAD#GroupID>      "233" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Honduras>
+        rdfs:subClassOf           <https://BAAD#NA> ;
+        <https://BAAD#latitude>   "14.100" ;
+        <https://BAAD#longitude>  "-87.217" .
+
+<https://BAAD#Japan>  rdfs:subClassOf  <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "35.683" ;
+        <https://BAAD#longitude>  "139.750" .
+
+<Padanian Armed Separatist Phalanx (FASP)>
+        rdf:type                    <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9816" ;
+        <https://BAAD#Territories>  "0" .
+
+<Overthrown Anarchist Faction>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9813" ;
+        <https://BAAD#Territories>  "0" .
+
+<TKP/ML-TIKKO>  rdf:type            <https://BAAD#Turkey> ;
+        <https://BAAD#COWMasterCountryName>
+                "Turkey" ;
+        <https://BAAD#Fatalities>   "29" ;
+        <https://BAAD#GroupID>      "9954" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Sri Lanka>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "6.917" ;
+        <https://BAAD#longitude>  "79.833" .
+
+<Free People of Galillee>
+        rdf:type                    <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20027" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Greece>
+        rdfs:subClassOf           <https://BAAD#EU> ;
+        <https://BAAD#latitude>   "37.983" ;
+        <https://BAAD#longitude>  "23.733" .
+
+<Iparretarrak (IK)>  rdf:type       <https://BAAD#France> ;
+        <https://BAAD#COWMasterCountryName>
+                "France" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "220" ;
+        <https://BAAD#Territories>  "0" .
+
+<Resistenza Corsa>  rdf:type        <https://BAAD#France> ;
+        <https://BAAD#COWMasterCountryName>
+                "France" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9866" ;
+        <https://BAAD#Territories>  "0" .
+
+<National Liberation Army (Colombia)>
+        rdf:type                    <https://BAAD#Colombia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Colombia" ;
+        <https://BAAD#Fatalities>   "107" ;
+        <https://BAAD#GroupID>      "317" ;
+        <https://BAAD#Territories>  "1" .
+
+<Amal>  rdf:type                    <https://BAAD#Greece> , <https://BAAD#Leba0n> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" , "Lebanon" ;
+        <https://BAAD#Fatalities>   "0" , "1" ;
+        <https://BAAD#GroupID>      "290" , "39" ;
+        <https://BAAD#Territories>  "0" .
+
+<International Solidarity>
+        rdf:type                    <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "219" ;
+        <https://BAAD#Territories>  "0" .
+
+<Battalion of the Martyr Abdullah Azzam>
+        rdf:type                    <https://BAAD#Egypt> ;
+        <https://BAAD#COWMasterCountryName>
+                "Egypt" ;
+        <https://BAAD#Fatalities>   "3" ;
+        <https://BAAD#GroupID>      "20017" ;
+        <https://BAAD#Territories>  "0" .
+
+<Kuki Liberation Army (KLA)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20038" ;
+        <https://BAAD#Territories>  "0" .
+
+<Fighting Guerillas of May>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "170" ;
+        <https://BAAD#Territories>  "0" .
+
+<Front for Defenders of Islam (FPI)>
+        rdf:type                    <https://BAAD#Indonesia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Indonesia" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "183" ;
+        <https://BAAD#Territories>  "0" .
+
+<National Liberation Front of Tripura (NLFT)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "54" ;
+        <https://BAAD#GroupID>      "318" ;
+        <https://BAAD#Territories>  "0" .
+
+<Brigades of Imam al-Hassan al-Basri>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "2" ;
+        <https://BAAD#GroupID>      "20009" ;
+        <https://BAAD#Territories>  "0" .
+
+<Salafia Jihadia>  rdf:type         <https://BAAD#Morocco> ;
+        <https://BAAD#COWMasterCountryName>
+                "Morocco" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "30037" ;
+        <https://BAAD#Territories>  "0" .
+
+<Jaish-ul-Muslimin>  rdf:type       <https://BAAD#Afghanistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Afghanistan" ;
+        <https://BAAD#Fatalities>   "4" ;
+        <https://BAAD#GroupID>      "236" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Yemen>  rdfs:subClassOf  <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "15.350" ;
+        <https://BAAD#longitude>  "44.200" .
+
+<Abu Sayyaf Group (ASG)>
+        rdf:type                    <https://BAAD#Philippines> ;
+        <https://BAAD#COWMasterCountryName>
+                "Philippines" ;
+        <https://BAAD#Fatalities>   "186" ;
+        <https://BAAD#GroupID>      "4" ;
+        <https://BAAD#Territories>  "1" .
+
+<Asbat al-Ansar>  rdf:type          <https://BAAD#Leba0n> ;
+        <https://BAAD#COWMasterCountryName>
+                "Lebanon" ;
+        <https://BAAD#Fatalities>   "7" ;
+        <https://BAAD#GroupID>      "20015" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#India>  rdfs:subClassOf  <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "28.600" ;
+        <https://BAAD#longitude>  "77.200" .
+
+<https://BAAD#Sierra Leone>
+        rdfs:subClassOf           <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "8.483" ;
+        <https://BAAD#longitude>  "-13.233" .
+
+<UNITA>  rdf:type                   <https://BAAD#Angola> ;
+        <https://BAAD#COWMasterCountryName>
+                "Angola" ;
+        <https://BAAD#Fatalities>   "270" ;
+        <https://BAAD#GroupID>      "9973" ;
+        <https://BAAD#Territories>  "1" .
+
+<Jamatul Mujahedin Bangladesh>
+        rdf:type                    <https://BAAD#Bangladesh> ;
+        <https://BAAD#COWMasterCountryName>
+                "Bangladesh" ;
+        <https://BAAD#Fatalities>   "23" ;
+        <https://BAAD#GroupID>      "30014" ;
+        <https://BAAD#Territories>  "0" .
+
+<Pattani United Liberation Organization (PULO)>
+        rdf:type                    <https://BAAD#Thailand> ;
+        <https://BAAD#COWMasterCountryName>
+                "Thailand" ;
+        <https://BAAD#Fatalities>   "7" ;
+        <https://BAAD#GroupID>      "9822" ;
+        <https://BAAD#Territories>  "0" .
+
+<Aden Abyan Islamic Army (AAIA)>
+        rdf:type                    <https://BAAD#Yemen> ;
+        <https://BAAD#COWMasterCountryName>
+                "Yemen" ;
+        <https://BAAD#Fatalities>   "8" ;
+        <https://BAAD#GroupID>      "8" ;
+        <https://BAAD#Territories>  "0" .
+
+<al-Qaeda Organization in the Land of the Two Rivers>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "1543" ;
+        <https://BAAD#GroupID>      "20007" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Colombia>
+        rdfs:subClassOf           <https://BAAD#SA> ;
+        <https://BAAD#latitude>   "4.600" ;
+        <https://BAAD#longitude>  "-74.083" .
+
+<Anti-Olympic Flame>  rdf:type      <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20013" ;
+        <https://BAAD#Territories>  "0" .
+
+<Brigades of the Victorious Lion of God>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "10103" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Nepal>  rdfs:subClassOf  <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "27.717" ;
+        <https://BAAD#longitude>  "85.317" .
+
+<al-Madina>  rdf:type               <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "24" ;
+        <https://BAAD#Territories>  "0" .
+
+<The Holders of the Black Banners>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9947" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Netherlands>
+        rdfs:subClassOf           <https://BAAD#EU> ;
+        <https://BAAD#latitude>   "52.350" ;
+        <https://BAAD#longitude>  "4.917" .
+
+<For a Revolutionary Perspective>
+        rdf:type                    <https://BAAD#Switzerland> ;
+        <https://BAAD#COWMasterCountryName>
+                "Switzerland" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "174" ;
+        <https://BAAD#Territories>  "0" .
+
+<Uncontrolled Rage>  rdf:type       <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9972" ;
+        <https://BAAD#Territories>  "0" .
+
+<Revolutionary Leninist Brigades>
+        rdf:type                    <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9881" ;
+        <https://BAAD#Territories>  "0" .
+
+<Macedonian Revolutionary Organization (VMRO)>
+        rdf:type                    <https://BAAD#Macedonia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Macedonia" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "280" ;
+        <https://BAAD#Territories>  "0" .
+
+<Real Irish Republican Army (RIRA)>
+        rdf:type                    <https://BAAD#United Kingdom> ;
+        <https://BAAD#COWMasterCountryName>
+                "United Kingdom" ;
+        <https://BAAD#Fatalities>   "30" ;
+        <https://BAAD#GroupID>      "9854" ;
+        <https://BAAD#Territories>  "0" .
+
+<Abu Nayaf al-Afgani>
+        rdf:type                    <https://BAAD#Spain> ;
+        <https://BAAD#COWMasterCountryName>
+                "Spain" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20001" ;
+        <https://BAAD#Territories>  "0" .
+
+<Comando Jaramillista Morelense 23 de Mayo>
+        rdf:type                    <https://BAAD#Mexico> ;
+        <https://BAAD#COWMasterCountryName>
+                "Mexico" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20023" ;
+        <https://BAAD#Territories>  "0" .
+
+<Egyptian Islamic Jihad (EIJ)>
+        rdf:type                    <https://BAAD#Egypt> ;
+        <https://BAAD#COWMasterCountryName>
+                "Egypt" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "158" ;
+        <https://BAAD#Territories>  "0" .
+
+<Army of God>  rdf:type             <https://BAAD#United States of America> ;
+        <https://BAAD#COWMasterCountryName>
+                "United States of America" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "89" ;
+        <https://BAAD#Territories>  "0" .
+
+<Ansar al-Jihad>  rdf:type          <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "52" ;
+        <https://BAAD#Territories>  "0" .
+
+<Solidarity for Political Prisoners>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9921" ;
+        <https://BAAD#Territories>  "0" .
+
+<Committee for the Security of the Highways>
+        rdf:type                    <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "3" ;
+        <https://BAAD#GroupID>      "130" ;
+        <https://BAAD#Territories>  "0" .
+
+<Kangleipak Communist Party>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "30034" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Chile>  rdfs:subClassOf  <https://BAAD#SA> ;
+        <https://BAAD#latitude>   "-33.450" ;
+        <https://BAAD#longitude>  "-70.667" .
+
+<Revolutionary Socialists>
+        rdf:type                    <https://BAAD#Sweden> ;
+        <https://BAAD#COWMasterCountryName>
+                "Sweden" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9892" ;
+        <https://BAAD#Territories>  "0" .
+
+<Ulster Volunteer Force (UVF)>
+        rdf:type                    <https://BAAD#United Kingdom> ;
+        <https://BAAD#COWMasterCountryName>
+                "United Kingdom" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9970" ;
+        <https://BAAD#Territories>  "0" .
+
+<Sword of Islam>  rdf:type          <https://BAAD#Russia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Russia" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9937" ;
+        <https://BAAD#Territories>  "0" .
+
+<Anti-Mainstream Self Determination Faction>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "59" ;
+        <https://BAAD#Territories>  "0" .
+
+<al-Gama'a al-Islamiyya (GAI)>
+        rdf:type                    <https://BAAD#Egypt> ;
+        <https://BAAD#COWMasterCountryName>
+                "Egypt" ;
+        <https://BAAD#Fatalities>   "4" ;
+        <https://BAAD#GroupID>      "19" ;
+        <https://BAAD#Territories>  "0" .
+
+<New People's Army (NPA)>
+        rdf:type                    <https://BAAD#Philippines> ;
+        <https://BAAD#COWMasterCountryName>
+                "Philippines" ;
+        <https://BAAD#Fatalities>   "36" ;
+        <https://BAAD#GroupID>      "327" ;
+        <https://BAAD#Territories>  "1" .
+
+<Fighters for Freedom>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "168" ;
+        <https://BAAD#Territories>  "0" .
+
+<Democratic Karen Buddhist Army (DKBA)>
+        rdf:type                    <https://BAAD#Myanmar (Burma)> ;
+        <https://BAAD#COWMasterCountryName>
+                "Myanmar (Burma)" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "149" ;
+        <https://BAAD#Territories>  "1" .
+
+<https://BAAD#Afghanistan>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "34.517" ;
+        <https://BAAD#longitude>  "69.183" .
+
+<Kurdistan Freedom Hawks>
+        rdf:type                    <https://BAAD#Turkey> ;
+        <https://BAAD#COWMasterCountryName>
+                "Turkey" ;
+        <https://BAAD#Fatalities>   "5" ;
+        <https://BAAD#GroupID>      "261" ;
+        <https://BAAD#Territories>  "0" .
+
+<Lashkar-e-Taiba (LeT)>
+        rdf:type                    <https://BAAD#Pakistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Pakistan" ;
+        <https://BAAD#Fatalities>   "138" ;
+        <https://BAAD#GroupID>      "265" ;
+        <https://BAAD#Territories>  "0" .
+
+<Enraged Proletarians>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "159" ;
+        <https://BAAD#Territories>  "0" .
+
+<Ulster Defence Association/Ulster Freedom Fighters>
+        rdf:type                    <https://BAAD#United Kingdom> ;
+        <https://BAAD#COWMasterCountryName>
+                "United Kingdom" ;
+        <https://BAAD#Fatalities>   "2" ;
+        <https://BAAD#GroupID>      "9969" ;
+        <https://BAAD#Territories>  "0" .
+
+<Kanglei Yawol Kanna Lup (KYKL)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "30033" ;
+        <https://BAAD#Territories>  "0" .
+
+<Muslims Against Global Oppression (MAGO)>
+        rdf:type                    <https://BAAD#South Africa> ;
+        <https://BAAD#COWMasterCountryName>
+                "South Africa" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "312" ;
+        <https://BAAD#Territories>  "0" .
+
+<Hikmatul Zihad>  rdf:type          <https://BAAD#Bangladesh> ;
+        <https://BAAD#COWMasterCountryName>
+                "Bangladesh" ;
+        <https://BAAD#Fatalities>   "19" ;
+        <https://BAAD#GroupID>      "208" ;
+        <https://BAAD#Territories>  "0" .
+
+<Saraya al-Shuhuada al-jihadiyah fi al-Iraq>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "7" ;
+        <https://BAAD#GroupID>      "9907" ;
+        <https://BAAD#Territories>  "0" .
+
+<Sardinian Auto0my Movement (MAS)>
+        rdf:type                    <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9908" ;
+        <https://BAAD#Territories>  "0" .
+
+<Melting Nuclei>  rdf:type          <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "295" ;
+        <https://BAAD#Territories>  "0" .
+
+<Revolutionary Proletarian Nucleus>
+        rdf:type                    <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9891" ;
+        <https://BAAD#Territories>  "0" .
+
+<Free Vietnam Revolutionary Group>
+        rdf:type                    <https://BAAD#Philippines> ;
+        <https://BAAD#COWMasterCountryName>
+                "Philippines" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "179" ;
+        <https://BAAD#Territories>  "0" .
+
+<Communist Revolutionaries in Europe>
+        rdf:type                    <https://BAAD#Netherlands> ;
+        <https://BAAD#COWMasterCountryName>
+                "Netherlands" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "135" ;
+        <https://BAAD#Territories>  "0" .
+
+<New Revolutionary Alternative>
+        rdf:type                    <https://BAAD#Russia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Russia" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "329" ;
+        <https://BAAD#Territories>  "0" .
+
+<Kach>  rdf:type                    <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "248" ;
+        <https://BAAD#Territories>  "0" .
+
+<Chukakuha>  rdf:type               <https://BAAD#Japan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Japan" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "122" ;
+        <https://BAAD#Territories>  "0" .
+
+<Bagramyan Battalion>
+        rdf:type                    <https://BAAD#Georgia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Georgia" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "99" ;
+        <https://BAAD#Territories>  "0" .
+
+<Movement of the Revolutionary Left>
+        rdf:type                    <https://BAAD#Chile> ;
+        <https://BAAD#COWMasterCountryName>
+                "Chile" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "306" ;
+        <https://BAAD#Territories>  "0" .
+
+<Auto0mous Cells of Rebel Action>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "96" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Spain>  rdfs:subClassOf  <https://BAAD#EU> ;
+        <https://BAAD#latitude>   "40.400" ;
+        <https://BAAD#longitude>  "-3.683" .
+
+<People Against Gangsterism And Drugs (PAGAD)>
+        rdf:type                    <https://BAAD#South Africa> ;
+        <https://BAAD#COWMasterCountryName>
+                "South Africa" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9824" ;
+        <https://BAAD#Territories>  "0" .
+
+<Hamas>  rdf:type                   <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "385" ;
+        <https://BAAD#GroupID>      "200" ;
+        <https://BAAD#Territories>  "1" .
+
+<EPA (Ejercito del Pueblo en Armas)>
+        rdf:type                    <https://BAAD#Venezuela> ;
+        <https://BAAD#COWMasterCountryName>
+                "Venezuela" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20020" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#El Salvador>
+        rdfs:subClassOf           <https://BAAD#NA> ;
+        <https://BAAD#latitude>   "13.700" ;
+        <https://BAAD#longitude>  "-89.200" .
+
+<https://BAAD#Pakistan>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "33.683" ;
+        <https://BAAD#longitude>  "73.050" .
+
+<Red Guerrillas>  rdf:type          <https://BAAD#Russia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Russia" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9859" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Morocco>
+        rdfs:subClassOf           <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "34.017" ;
+        <https://BAAD#longitude>  "-6.817" .
+
+<Cypriot Nationalist Organization (OKE)>
+        rdf:type                    <https://BAAD#Cyprus> ;
+        <https://BAAD#COWMasterCountryName>
+                "Cyprus" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20096" ;
+        <https://BAAD#Territories>  "0" .
+
+<United Tajik Opposition (UTO)>
+        rdf:type                    <https://BAAD#Tajikistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Tajikistan" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "9982" ;
+        <https://BAAD#Territories>  "0" .
+
+<Tigers>  rdf:type                  <https://BAAD#Swaziland> ;
+        <https://BAAD#COWMasterCountryName>
+                "Swaziland" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "9951" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Israel>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "31.767" ;
+        <https://BAAD#longitude>  "35.233" .
+
+<Night Avengers>  rdf:type          <https://BAAD#Honduras> ;
+        <https://BAAD#COWMasterCountryName>
+                "Honduras" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "331" ;
+        <https://BAAD#Territories>  "0" .
+
+<Burning Path>  rdf:type            <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "112" ;
+        <https://BAAD#Territories>  "0" .
+
+<Midnight Saboteurs>  rdf:type      <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "296" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#United States of America>
+        rdfs:subClassOf           <https://BAAD#NA> ;
+        <https://BAAD#latitude>   "38.907" ;
+        <https://BAAD#longitude>  "-77.037" .
+
+<Children of Fire>  rdf:type        <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "121" ;
+        <https://BAAD#Territories>  "0" .
+
+<Popular Revolutionary Army (Mexico)>
+        rdf:type                    <https://BAAD#Mexico> ;
+        <https://BAAD#COWMasterCountryName>
+                "Mexico" ;
+        <https://BAAD#Fatalities>   "4" ;
+        <https://BAAD#GroupID>      "10043" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Philippines>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "14.600" ;
+        <https://BAAD#longitude>  "120.967" .
+
+<United Revolutionary Front>
+        rdf:type                    <https://BAAD#Venezuela> ;
+        <https://BAAD#COWMasterCountryName>
+                "Venezuela" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9979" ;
+        <https://BAAD#Territories>  "0" .
+
+<Eritrean Islamic Jihad Movement (EIJM)>
+        rdf:type                    <https://BAAD#Eritrea> ;
+        <https://BAAD#COWMasterCountryName>
+                "Eritrea" ;
+        <https://BAAD#Fatalities>   "2" ;
+        <https://BAAD#GroupID>      "20026" ;
+        <https://BAAD#Territories>  "0" .
+
+<Shurafa al-Urdun>  rdf:type        <https://BAAD#Jordan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Jordan" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "9916" ;
+        <https://BAAD#Territories>  "0" .
+
+<Anti-Communist Command (KAK)>
+        rdf:type                    <https://BAAD#Indonesia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Indonesia" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "539" ;
+        <https://BAAD#Territories>  "0" .
+
+<Hezbollah>  rdf:type               <https://BAAD#Leba0n> ;
+        <https://BAAD#COWMasterCountryName>
+                "Lebanon" ;
+        <https://BAAD#Fatalities>   "10" ;
+        <https://BAAD#GroupID>      "207" ;
+        <https://BAAD#Territories>  "1" .
+
+<https://BAAD#Ireland>
+        rdfs:subClassOf           <https://BAAD#EU> ;
+        <https://BAAD#latitude>   "53.317" ;
+        <https://BAAD#longitude>  "-6.233" .
+
+<Pueblo Regrupado>  rdf:type        <https://BAAD#Chile> ;
+        <https://BAAD#COWMasterCountryName>
+                "Chile" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20042" ;
+        <https://BAAD#Territories>  "0" .
+
+<Islamic Movement of Uzbekistan (IMU)>
+        rdf:type                    <https://BAAD#Uzbekistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Uzbekistan" ;
+        <https://BAAD#Fatalities>   "7" ;
+        <https://BAAD#GroupID>      "230" ;
+        <https://BAAD#Territories>  "1" .
+
+<Divine Wrath Brigades>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "152" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Congo>  rdfs:subClassOf  <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "-4.317" ;
+        <https://BAAD#longitude>  "15.300" .
+
+<Freedom for Mumia Abu-Jamal>
+        rdf:type                    <https://BAAD#Switzerland> ;
+        <https://BAAD#COWMasterCountryName>
+                "Switzerland" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "180" ;
+        <https://BAAD#Territories>  "0" .
+
+<Al-Bara bin Malek Brigades>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "5" ;
+        <https://BAAD#GroupID>      "20006" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Eritrea>
+        rdfs:subClassOf           <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "15.333" ;
+        <https://BAAD#longitude>  "38.933" .
+
+<Islamic Army in Iraq>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "7" ;
+        <https://BAAD#GroupID>      "225" ;
+        <https://BAAD#Territories>  "0" .
+
+<Group Revolutionary Reconstruction>
+        rdf:type                    <https://BAAD#Germany> ;
+        <https://BAAD#COWMasterCountryName>
+                "Germany" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20030" ;
+        <https://BAAD#Territories>  "0" .
+
+<All Tripura Tiger Force (ATTF)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "59" ;
+        <https://BAAD#GroupID>      "38" ;
+        <https://BAAD#Territories>  "0" .
+
+<Islamic Resistance Brigades>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "231" ;
+        <https://BAAD#Territories>  "0" .
+
+<National Army for the Liberation of Uganda (NALU)>
+        rdf:type                    <https://BAAD#Uganda> ;
+        <https://BAAD#COWMasterCountryName>
+                "Uganda" ;
+        <https://BAAD#Fatalities>   "30" ;
+        <https://BAAD#GroupID>      "314" ;
+        <https://BAAD#Territories>  "1" .
+
+<Iraqi Revenge Brigades>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20034" ;
+        <https://BAAD#Territories>  "0" .
+
+<Proletarian Reprisals>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9850" ;
+        <https://BAAD#Territories>  "0" .
+
+<New Revolutionary Popular Struggle (NELA)>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "330" ;
+        <https://BAAD#Territories>  "0" .
+
+<Conscientious Arsonists (CA)>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "138" ;
+        <https://BAAD#Territories>  "0" .
+
+<Taliban>  rdf:type                 <https://BAAD#Afghanistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Afghanistan" ;
+        <https://BAAD#Fatalities>   "338" ;
+        <https://BAAD#GroupID>      "9940" ;
+        <https://BAAD#Territories>  "1" .
+
+<Revolutionary Armed Corps (CAR)>
+        rdf:type                    <https://BAAD#Ecuador> ;
+        <https://BAAD#COWMasterCountryName>
+                "Ecuador" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9869" ;
+        <https://BAAD#Territories>  "0" .
+
+<Rigas Fereos>  rdf:type            <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9900" ;
+        <https://BAAD#Territories>  "0" .
+
+<Carapaica Revolutionary Movement>
+        rdf:type                    <https://BAAD#Venezuela> ;
+        <https://BAAD#COWMasterCountryName>
+                "Venezuela" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "114" ;
+        <https://BAAD#Territories>  "0" .
+
+<Irish Republican Army (IRA)>
+        rdf:type                    <https://BAAD#United Kingdom> ;
+        <https://BAAD#COWMasterCountryName>
+                "United Kingdom" ;
+        <https://BAAD#Fatalities>   "2" ;
+        <https://BAAD#GroupID>      "223" ;
+        <https://BAAD#Territories>  "0" .
+
+<Anti-State Nuclei>  rdf:type       <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "63" ;
+        <https://BAAD#Territories>  "0" .
+
+<Revolutionary Subversive Faction-Commando Unibomber>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9894" ;
+        <https://BAAD#Territories>  "0" .
+
+<Francs Tireurs (Mavericks)>
+        rdf:type                    <https://BAAD#France> ;
+        <https://BAAD#COWMasterCountryName>
+                "France" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "176" ;
+        <https://BAAD#Territories>  "0" .
+
+<Badr Forces>  rdf:type             <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "20016" ;
+        <https://BAAD#Territories>  "0" .
+
+<Anti-Zionist Movement>
+        rdf:type                    <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "65" ;
+        <https://BAAD#Territories>  "0" .
+
+<Salah al-Din Battalions>
+        rdf:type                    <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "3" ;
+        <https://BAAD#GroupID>      "9905" ;
+        <https://BAAD#Territories>  "0" .
+
+<Red Brigades>  rdf:type            <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "2" ;
+        <https://BAAD#GroupID>      "9857" ;
+        <https://BAAD#Territories>  "0" .
+
+<Jemaah Islamiya (JI)>
+        rdf:type                    <https://BAAD#Indonesia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Indonesia" ;
+        <https://BAAD#Fatalities>   "227" ;
+        <https://BAAD#GroupID>      "241" ;
+        <https://BAAD#Territories>  "1" .
+
+<Kayin National Union (KNU)>
+        rdf:type                    <https://BAAD#Myanmar (Burma)> ;
+        <https://BAAD#COWMasterCountryName>
+                "Myanmar (Burma)" ;
+        <https://BAAD#Fatalities>   "27" ;
+        <https://BAAD#GroupID>      "251" ;
+        <https://BAAD#Territories>  "1" .
+
+<Revolutionary Memory>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9883" ;
+        <https://BAAD#Territories>  "0" .
+
+<Jagrata Muslim Janata Bangladesh>
+        rdf:type                    <https://BAAD#Bangladesh> ;
+        <https://BAAD#COWMasterCountryName>
+                "Bangladesh" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "30031" ;
+        <https://BAAD#Territories>  "0" .
+
+<Liberation Tigers of Tamil Eelam (LTTE)>
+        rdf:type                    <https://BAAD#Sri Lanka> ;
+        <https://BAAD#COWMasterCountryName>
+                "Sri Lanka" ;
+        <https://BAAD#Fatalities>   "243" ;
+        <https://BAAD#GroupID>      "276" ;
+        <https://BAAD#Territories>  "1" .
+
+<Kakurokyo>  rdf:type               <https://BAAD#Japan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Japan" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "250" ;
+        <https://BAAD#Territories>  "0" .
+
+<Coalition to Save the Preserves (CSP)>
+        rdf:type                    <https://BAAD#United States of America> ;
+        <https://BAAD#COWMasterCountryName>
+                "United States of America" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "126" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Indonesia>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "-6.167" ;
+        <https://BAAD#longitude>  "106.817" .
+
+<Riyad us-Saliheyn Martyrs' Brigade>
+        rdf:type                    <https://BAAD#Russia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Russia" ;
+        <https://BAAD#Fatalities>   "514" ;
+        <https://BAAD#GroupID>      "9901" ;
+        <https://BAAD#Territories>  "0" .
+
+<al-Aqsa Martyrs Brigades>
+        rdf:type                    <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "10" ;
+        <https://BAAD#GroupID>      "12" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Russia>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "55.750" ;
+        <https://BAAD#longitude>  "37.600" .
+
+<Supporters of Horst Ludwig Meyer>
+        rdf:type                    <https://BAAD#Denmark> ;
+        <https://BAAD#COWMasterCountryName>
+                "Denmark" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9936" ;
+        <https://BAAD#Territories>  "0" .
+
+<United National Liberation Front (UNLF)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "2" ;
+        <https://BAAD#GroupID>      "30040" ;
+        <https://BAAD#Territories>  "1" .
+
+<Arbav Martyrs of Khuzestan>
+        rdf:type                    <https://BAAD#Iran> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iran" ;
+        <https://BAAD#Fatalities>   "10" ;
+        <https://BAAD#GroupID>      "20062" ;
+        <https://BAAD#Territories>  "0" .
+
+<Justice Army of the Defenseless People>
+        rdf:type                    <https://BAAD#Mexico> ;
+        <https://BAAD#COWMasterCountryName>
+                "Mexico" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "246" ;
+        <https://BAAD#Territories>  "0" .
+
+<Democratic Front for the Liberation of Palestine (DFLP)>
+        rdf:type                    <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "7" ;
+        <https://BAAD#GroupID>      "147" ;
+        <https://BAAD#Territories>  "0" .
+
+<Palestinian Islamic Jihad (PIJ)>
+        rdf:type                    <https://BAAD#Israel> ;
+        <https://BAAD#COWMasterCountryName>
+                "Israel" ;
+        <https://BAAD#Fatalities>   "121" ;
+        <https://BAAD#GroupID>      "9819" ;
+        <https://BAAD#Territories>  "0" .
+
+<April 19 Movement>  rdf:type       <https://BAAD#Colombia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Colombia" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "69" ;
+        <https://BAAD#Territories>  "0" .
+
+<Army of the Followers of Sunni Islam>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "3" ;
+        <https://BAAD#GroupID>      "91" ;
+        <https://BAAD#Territories>  "0" .
+
+<Harakat ul-Mudjahidin (HuM)>
+        rdf:type                    <https://BAAD#Pakistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Pakistan" ;
+        <https://BAAD#Fatalities>   "7" ;
+        <https://BAAD#GroupID>      "205" ;
+        <https://BAAD#Territories>  "0" .
+
+<Consciously Enraged>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20025" ;
+        <https://BAAD#Territories>  "0" .
+
+<Anti-Power Struggle>
+        rdf:type                    <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "60" ;
+        <https://BAAD#Territories>  "0" .
+
+<al-Intiqami al-Pakistani>
+        rdf:type                    <https://BAAD#Pakistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Pakistan" ;
+        <https://BAAD#Fatalities>   "6" ;
+        <https://BAAD#GroupID>      "22" ;
+        <https://BAAD#Territories>  "0" .
+
+<Armata di Liberazione Naziunale>
+        rdf:type                    <https://BAAD#France> ;
+        <https://BAAD#COWMasterCountryName>
+                "France" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "78" ;
+        <https://BAAD#Territories>  "0" .
+
+<Friendship Society>  rdf:type      <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "182" ;
+        <https://BAAD#Territories>  "0" .
+
+<National Socialist Council of Nagaland-Isak-Muivah (NSCN-IM)>
+        rdf:type                    <https://BAAD#India> ;
+        <https://BAAD#COWMasterCountryName>
+                "India" ;
+        <https://BAAD#Fatalities>   "4" ;
+        <https://BAAD#GroupID>      "10079" ;
+        <https://BAAD#Territories>  "0" .
+
+<Underground Government of the Free Democratic People of Laos>
+        rdf:type                    <https://BAAD#Laos> ;
+        <https://BAAD#COWMasterCountryName>
+                "Laos" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20045" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Chad>  rdfs:subClassOf  <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "12.100" ;
+        <https://BAAD#longitude>  "15.033" .
+
+<Protectors of Islam Brigade>
+        rdf:type                    <https://BAAD#Iraq> ;
+        <https://BAAD#COWMasterCountryName>
+                "Iraq" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20041" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Angola>
+        rdfs:subClassOf           <https://BAAD#Africa> ;
+        <https://BAAD#latitude>   "-8.833" ;
+        <https://BAAD#longitude>  "13.217" .
+
+<Mujahideen KOMPAK>  rdf:type       <https://BAAD#Indonesia> ;
+        <https://BAAD#COWMasterCountryName>
+                "Indonesia" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "20039" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Uzbekistan>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "41.317" ;
+        <https://BAAD#longitude>  "69.250" .
+
+<Maria0 More0 National Liberation Commando>
+        rdf:type                    <https://BAAD#Venezuela> ;
+        <https://BAAD#COWMasterCountryName>
+                "Venezuela" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "285" ;
+        <https://BAAD#Territories>  "0" .
+
+<Red Line>  rdf:type                <https://BAAD#Greece> ;
+        <https://BAAD#COWMasterCountryName>
+                "Greece" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "9861" ;
+        <https://BAAD#Territories>  "0" .
+
+<al-Nawaz>  rdf:type                <https://BAAD#Pakistan> ;
+        <https://BAAD#COWMasterCountryName>
+                "Pakistan" ;
+        <https://BAAD#Fatalities>   "2" ;
+        <https://BAAD#GroupID>      "27" ;
+        <https://BAAD#Territories>  "0" .
+
+<https://BAAD#Bolivia>
+        rdfs:subClassOf           <https://BAAD#SA> ;
+        <https://BAAD#latitude>   "-16.500" ;
+        <https://BAAD#longitude>  "-68.150" .
+
+<https://BAAD#Macedonia>
+        rdfs:subClassOf           <https://BAAD#EU> ;
+        <https://BAAD#latitude>   "42.000" ;
+        <https://BAAD#longitude>  "21.433" .
+
+<https://BAAD#Saudi Arabia>
+        rdfs:subClassOf           <https://BAAD#Asia> ;
+        <https://BAAD#latitude>   "24.650" ;
+        <https://BAAD#longitude>  "46.700" .
+
+<Anti-Racist Guerrilla Nuclei>
+        rdf:type                    <https://BAAD#Italy> ;
+        <https://BAAD#COWMasterCountryName>
+                "Italy" ;
+        <https://BAAD#Fatalities>   "0" ;
+        <https://BAAD#GroupID>      "61" ;
+        <https://BAAD#Territories>  "0" .
+
+<Breton Revolutionary Army (ARB)>
+        rdf:type                    <https://BAAD#France> ;
+        <https://BAAD#COWMasterCountryName>
+                "France" ;
+        <https://BAAD#Fatalities>   "1" ;
+        <https://BAAD#GroupID>      "111" ;
+        <https://BAAD#Territories>  "0" .
+

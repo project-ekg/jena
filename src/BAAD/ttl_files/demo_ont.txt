@@ -1,0 +1,51 @@
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://BAAD#EU>  rdf:type  owl:Class ;
+        rdfs:subClassOf  <https://BAAD#World> .
+
+<https://BAAD#X>  rdf:type     owl:Class ;
+        rdfs:subClassOf        <https://BAAD#Africa> ;
+        owl:annotatedProperty  "LongX" , "LatX" .
+
+<C>     rdf:type               <https://BAAD#Z> ;
+        owl:annotatedProperty  "1" , "Z" , "0" , "33" .
+
+<https://BAAD#V>  rdf:type     owl:Class ;
+        rdfs:subClassOf        <https://BAAD#Asia> ;
+        owl:annotatedProperty  "LongV" , "LatV" .
+
+<A>     rdf:type               <https://BAAD#X> ;
+        owl:annotatedProperty  "X" , "0" , "11" .
+
+<https://BAAD#Y>  rdf:type     owl:Class ;
+        rdfs:subClassOf        <https://BAAD#Africa> ;
+        owl:annotatedProperty  "LongY" , "LatY" .
+
+<D>     rdf:type               <https://BAAD#V> ;
+        owl:annotatedProperty  "V" , "1" , "44" .
+
+<https://BAAD#Africa>
+        rdf:type         owl:Class ;
+        rdfs:subClassOf  <https://BAAD#World> .
+
+<B>     rdf:type               <https://BAAD#Y> ;
+        owl:annotatedProperty  "0" , "Y" , "1" , "22" .
+
+<https://BAAD#World>  rdf:type  owl:Class .
+
+<https://BAAD#U>  rdf:type     owl:Class ;
+        rdfs:subClassOf        <https://BAAD#EU> ;
+        owl:annotatedProperty  "LongU" , "LatU" .
+
+<https://BAAD#Z>  rdf:type     owl:Class ;
+        rdfs:subClassOf        <https://BAAD#Asia> ;
+        owl:annotatedProperty  "LongZ" , "LatZ" .
+
+<E>     rdf:type               <https://BAAD#U> ;
+        owl:annotatedProperty  "U" , "0" , "55" .
+
+<https://BAAD#Asia>  rdf:type  owl:Class ;
+        rdfs:subClassOf  <https://BAAD#World> .

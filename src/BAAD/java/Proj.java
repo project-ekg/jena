@@ -26,7 +26,7 @@ import org.apache.jena.riot.Lang;
 import org.apache.jena.riot.RDFDataMgr;
 import org.apache.jena.vocabulary.OWL2;
 
-public class BAAD_ont_Test 
+public class Proj 
 {
 	public static void main( String[] args ) throws Exception 
     {
@@ -109,32 +109,57 @@ public class BAAD_ont_Test
     	System.out.println("Model Created \n");
     	
     	 	
- 
-//------------------------- 	SATEMENTS	------------------------------
     	
-    	 //list the statements in the Model
-//    	StmtIterator iter = model.listStatements();
-//
-//    	// print out the predicate, subject and object of each statement
-//    	while (iter.hasNext()) {
-//    	    Statement stmt      = iter.nextStatement();  // get next statement
-//    	    Resource  subject   = stmt.getSubject();     // get the subject
-//    	    Property  predicate = stmt.getPredicate();   // get the predicate
-//    	    RDFNode   object    = stmt.getObject();      // get the object
-//
-//    	    System.out.print(subject.toString());
-//    	    System.out.print(" " + predicate.toString() + " ");
-//    	    if (object instanceof Resource) {
-//    	       System.out.print(object.toString());
-//    	    } else {
-//    	        // object is a literal
-//    	        System.out.print(" \"" + object.toString() + "\"");
-//    	    }
-//
-//    	    System.out.println(" .");
-//    	}
-    }
-       
+//------------------------- 	QUERY	 ------------------------------
+    	
+    //QUERY-READ
+    	String querystring = "";
+    	try 
+    	{
+			File queryfile = new File(query_file_path);
+			Scanner myReader = new Scanner(queryfile);
+			while (myReader.hasNextLine()) 
+			  {
+				String str;
+				str = myReader.nextLine();
+			    querystring = querystring + "\n" + str ;
+
+			  }
+			  myReader.close();
+			  System.out.println(querystring + "\n");
+			  System.out.println("Query Read \n");
+		} 
+    	catch (FileNotFoundException e) 
+    	{
+			// TODO Auto-generated catch block
+			System.out.println("Query File not found \n");
+			e.printStackTrace();
+		}
+    	
+    	
+    // QUERY-EXECUTE AND WRITE
+    	Query query = QueryFactory.create(querystring);
+		QueryExecution qexec = QueryExecutionFactory.create(query, model);
+		FileWriter outfile = new FileWriter(cord_file_path);
+		try 
+		{
+			ResultSet results = qexec.execSelect();
+			ByteArrayOutputStream outputstream = new ByteArrayOutputStream();
+			ResultSetFormatter.outputAsJSON(outputstream, results);
+			String json = new String(outputstream.toByteArray());
+			outfile.write(json);
+			System.out.println("Result Coordinates Written \n");
+			System.out.println(json);
+			outfile.close();
+		}
+		catch (Exception e) 
+		{
+			e.printStackTrace();
+			System.out.println("error in writing");
+
+		}
+		qexec.close();
+	}
 	
 	
 	
