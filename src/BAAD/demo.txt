@@ -1,7 +1,0 @@
-Algeria,36.75,3.05,AF
-Angola,-8.833333333,13.216667,NA
-Benin,6.483333333,2.616667,NA
-Botswana,-24.63333333,25.9,SA
-BritishIndianOceanTerritory,-7.3,72.4,AS
-BurkinaFaso,12.36666667,-1.516667,EU
-Burundi,-3.366666667,29.35	AS
